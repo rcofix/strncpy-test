@@ -159,6 +159,8 @@
 		F72D4BEB1B4F325400AD4963 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Rolf Fox";
 				TargetAttributes = {
@@ -413,6 +415,7 @@
 				F72D4C141B4F325400AD4963 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F72D4C151B4F325400AD4963 /* Build configuration list for PBXNativeTarget "CaptureListsTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +424,7 @@
 				F72D4C171B4F325400AD4963 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

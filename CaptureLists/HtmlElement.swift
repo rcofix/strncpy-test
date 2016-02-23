@@ -32,6 +32,6 @@ class HtmlElement: NSObject {
     }
     
     deinit {
-        print("\(name) is being deintialized")
+        print("\(name) is being deintialized", terminator: "")
     }
 }
