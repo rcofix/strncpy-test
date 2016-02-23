@@ -9,29 +9,13 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "CaptureLists/HtmlElement.swift"
-            timestampString = "458177821.51227"
+            filePath = "CaptureLists/ViewController.swift"
+            timestampString = "476917268.613894"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
-            landmarkName = "asHTML"
-            landmarkType = "19">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CaptureLists/HtmlElement.swift"
-            timestampString = "458178197.356132"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "deinit"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "myShow()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

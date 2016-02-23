@@ -34,6 +34,16 @@ class ViewController: UIViewController {
         display.addAction(UIAlertAction(title: "Ok", style: UIAlertActionStyle.Destructive, handler: nil))
         
         self.presentViewController(display, animated: true, completion: nil)
+        
+        let key1 = "FirstKey"
+        let key2 = "FirstKey"
+        
+        var dict: [String: NSNumber] = [:]
+        
+        dict[key1] = NSNumber(double: 12.21)
+        dict[key2] = NSNumber(double: 1.14)
+        
+        print("\(dump(dict))")
     }
 
 
